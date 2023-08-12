@@ -1,24 +1,18 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Silius](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Get started](overview/get-started.md)
+* [🏗 Architecture](overview/architecture.md)
 
-## Product Guides
+## Tutorials
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🐳 Running in Docker](tutorials/docker.md)
+* [⛩ Running separate components](tutorials/components.md)
+* [👽 Defining alternative mempool](tutorials/alt-mempool.md)
 
-## Fundamentals
+## Libraries/crates <a href="#crates" id="crates"></a>
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🐾 Primitives](crates/primitives.md)
