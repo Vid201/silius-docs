@@ -1,3 +1,3 @@
-# ⛩ Running separate components
+# Running separate components
 
 Coming soon...

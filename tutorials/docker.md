@@ -1,3 +1,3 @@
-# 🐳 Running in Docker
+# Running in Docker
 
 Coming soon...

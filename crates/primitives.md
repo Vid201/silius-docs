@@ -1,3 +1,3 @@
-# 🐾 Primitives
+# Primitives
 
 Coming soon...
