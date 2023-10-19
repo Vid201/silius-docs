@@ -1,5 +1,5 @@
 ---
-description: An open-source bundler implementation in Rust, public good
+description: An open-source ERC-4337 bundler implementation in Rust
 cover: .gitbook/assets/banner.png
 coverY: 0
 layout:
@@ -20,13 +20,17 @@ layout:
 
 # Silius
 
+_Account Abstraction has for a long time been a dream of the Ethereum developer community._
+
+_**- Vitalik Buterin**_
+
 ### Introduction
 
-**Silius** is an ERC-4337 (account abstraction) bundler implementation in a highly efficient and safe programming language Rust. But there's more; it's design and architecture are focused on:
+**Silius** is an [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) (account abstraction) bundler implementation in a highly efficient and safe programming language Rust. But there's more; it's design and architecture are:
 
-* modularity - bundler's architecture is split into multiple components, enabling you to run just what you need
-* reusability - everything is implemented as Rust crates, making it possible to use different pieces in your project
-* efficiency - :crab:
+* modular - architecture is split into multiple components, enabling you to run just what you need
+* reusable - everything is implemented as Rust crates, making it possible to use different pieces in your project as building blocks
+* efficient - :crab:
 
 ### Links
 
@@ -38,11 +42,11 @@ Learn more about it [**here**](https://hackmd.io/@Vid201/aa-bundler-rust).
 
 Join the community and contribute to the account abstraction ecosystem in our [**Telegram group**](https://t.me/+sKeRcN4j3MM3NmNk)**!**
 
-### Contribute
+### Contributions
 
 Any contribution is more than welcome, hop on GitHub and check what needs to be build!
 
-<figure><img src=".gitbook/assets/banner.png" alt=""><figcaption><p><em>Ethereum dev staring at the foundation Silius is building...</em></p></figcaption></figure>
+<figure><img src=".gitbook/assets/banner.png" alt="" width="375"><figcaption><p><em>Ethereum dev staring at the foundation Silius is building...</em></p></figcaption></figure>
 
 ### Authors
 
