@@ -15,6 +15,7 @@
 * [Running separate components](tutorials/components.md)
 * [Alternative mempools](tutorials/alt-mempool.md)
 * [ERC-4337 examples](tutorials/erc-4337-examples.md)
+* [Bundler spec tests](tutorials/bundler-spec-tests.md)
 
 ## Libraries/crates <a href="#crates" id="crates"></a>
 
