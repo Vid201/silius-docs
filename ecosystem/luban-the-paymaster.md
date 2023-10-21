@@ -1,3 +1,5 @@
 # Luban the Paymaster
 
-Coming soon...
+A Cross-chain Tx Sponsorship Protocol.
+
+[**GitHub repo**](https://github.com/da-bao-jian/luban-the-paymaster)

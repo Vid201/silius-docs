@@ -4,12 +4,13 @@
 
 ## Overview
 
-* [Get started](overview/get-started.md)
+* [Getting started](overview/getting-started.md)
 * [Architecture](overview/architecture.md)
 * [Project structure](overview/project-structure.md)
 
 ## Tutorials
 
+* [Building and running from source](tutorials/building-and-running-from-source.md)
 * [Running in Docker](tutorials/docker.md)
 * [Running separate components](tutorials/components.md)
 * [Alternative mempools](tutorials/alt-mempool.md)
@@ -26,4 +27,5 @@
 
 ## Ecosystem
 
+* [Ethers UserOp](ecosystem/ethers-userop.md)
 * [Luban the Paymaster](ecosystem/luban-the-paymaster.md)

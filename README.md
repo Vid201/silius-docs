@@ -52,6 +52,12 @@ Any contribution is more than welcome, hop on GitHub and check what needs to be 
 
 You can find the authors in the [**README**](https://github.com/Vid201/silius#authors) file.
 
+### Donations
+
+Silius is an open-source project and a public good. If you want to help the project, you can send donations of any size via:
+
+* Ethereum address: `0x7cB801446AC4f5EA8f7333EFc58ab787eB611558`
+
 ### License
 
 This project is dual-licensed under [**Apache 2.0**](https://github.com/Vid201/silius/blob/main/LICENSE-APACHE) and [**MIT**](https://github.com/Vid201/silius/blob/main/LICENSE-MIT) terms.
