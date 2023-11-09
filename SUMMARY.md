@@ -16,6 +16,7 @@
 * [Alternative mempools](tutorials/alt-mempool.md)
 * [ERC-4337 examples](tutorials/erc-4337-examples.md)
 * [Bundler spec tests](tutorials/bundler-spec-tests.md)
+* [P2P](tutorials/p2p.md)
 
 ## Libraries/crates <a href="#crates" id="crates"></a>
 
