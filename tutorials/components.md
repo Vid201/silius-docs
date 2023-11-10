@@ -1,6 +1,6 @@
 # Running separate components
 
-Since the architecture of the Silius bundler is [modular](../overview/architecture.md), you can run all components together or only a single component (based on your use case needs).
+Since the architecture of the Silius bundler is [modular](../overview/architecture.md), you can run all components together or only a single component (based on your use case).
 
 There are 4 commands available within Silius binary:
 
